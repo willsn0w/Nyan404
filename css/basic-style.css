@@ -69,6 +69,7 @@ header{
 
 .flexslider{
 	display:none;
+	overflow: hidden;
 }
 
 #content {  
@@ -218,10 +219,10 @@ a.buttonlink{
 	text-decoration:none;
 }
 a.buttonlink:hover{
-	background:#8dbc01;
+	background:#0171bc;
 }
 .greenelement{
-	background:#5ec79e;
+	background:#5ea0c7;
 	color:#fff;
 }
 .violetelement{
