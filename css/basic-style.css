@@ -253,7 +253,7 @@ This is for mobile devices with a bit larger screens.
 */
 @media only screen and (min-width: 481px) {
 #banner{
-	float:left;
+	float:center;
 	text-align:left;
 	margin-bottom:-20px;/*this depends on the height of the logo*/
 }
