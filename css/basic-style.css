@@ -16,14 +16,14 @@ BASE (MOBILE) SIZE
 /* typography */
 body{
 	color:#666;
-	font-family:'Ubuntu', Arial, Helvetica, sans-serif; 
+	font-family:'Helvetica', Arial, Helvetica, sans-serif; 
 	font-size:1em;
 	line-height:1.4em; 
 	font-weight:normal;
 }
 h1, h2, h3, h4, h5, h6{
 	font-weight:normal;
-	font-family:'Droid Serif', Arial, Helvetica, sans-serif; 
+	font-family:'Droid Sans', Arial, Helvetica, sans-serif; 
 	line-height:1.5em;
 	margin:.45em 0;
 	padding:0;
